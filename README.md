@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm a passionate **Mobile Developer** specializing in **Flutter**, **Android (Kotlin)**, and **iOS (Swift)**.  <br>I love crafting scalable, high-performance mobile apps with clean architecture and elegant UI/UX.  <br><br>My focus areas:<br>- 🧩 Building modular apps with **Clean Architecture** & **TDD**<br>- 💡 Integrating **local & remote data layers** efficiently<br>- 🧠 Exploring **on-device Machine Learning** and **biometric authentication**<br>- 🧰 Deploying production-ready apps to **Google Play** & **App Store**<br><br>Always excited to combine creativity with engineering to deliver seamless cross-platform experiences.<br>
+## 👨‍💻 About Me<br><br>I'm a passionate **Mobile Developer** specializing in **Flutter**, **Android (Kotlin)**, and **iOS (Swift)**.  <br>I love crafting scalable, high-performance mobile apps with clean architecture and elegant UI/UX.  <br><br>Always excited to combine creativity with engineering to deliver seamless cross-platform experiences.<br>
 
 
 ## 🌐 Socials:
